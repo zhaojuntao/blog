@@ -1,0 +1,4 @@
+[submodule "themes/fluid"]
+	path = themes/fluid
+	url = https://github.com/zhaojuntao/hexo-theme-fluid.git
+	tag = v1.6.2
