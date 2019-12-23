@@ -1,6 +1,6 @@
 
-<p align="center">
-    <a href="https://travis-ci.com/zhaojuntao/blog" alt="Travis-CI"><img src="https://travis-ci.com/zhaojuntao/blog.svg" /></a>
+<p align="left">
+    <a href="https://travis-ci.com/zhaojuntao/blog" alt="Travis-CI"><img src="https://api.travis-ci.com/zhaojuntao/blog.svg?branch=master" /></a>
 </p>
 
 # 说明
