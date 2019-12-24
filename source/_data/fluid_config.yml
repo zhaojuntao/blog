@@ -250,12 +250,12 @@ tag:
 # About Page
 #---------------------------
 about:  # 以下仅为页面顶部的基本信息，更多内容请在 ./pages/about.md 中编辑，支持 markdown 和 HTML
-  md_path: ./pages/about.md  # 关于页文档的相对路径，可以按相对文档设置主题之外的路径，从而避免更新冲突
+  md_path: ../../source/about.md  # 关于页文档的相对路径，可以按相对文档设置主题之外的路径，从而避免更新冲突
   banner_img: /img/default.png
   banner_img_height: 80  # available: 0 - 100
   avatar: /site-img/Murphy-logo.png # 头像
   name: MurphyZhao
-  introduce: 物联网软件开发工程师 # 支持 HTML
+  introduce: Coding | 自驾游 | 羽毛球 # 支持 HTML
   icons: # 更多图标可从 https://fontawesome.com/icons 查找，并以 "图标名: url" 的格式添加在下方
     "fab fa-github": https://github.com/murphyzhao
     "fab fa-twitter": https://twitter.com
