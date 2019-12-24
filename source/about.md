@@ -6,7 +6,7 @@
 
 俗话说，独行快，众行远，希望可以通过这个平台认识自己，也认识更多优秀的你。
 
-另外，我从事物联网相关的工作，注册运营了一个公众号[「物联网学习班」](https://gitee.com/zhaojuntao/PictureBed/raw/master/blog/IoT-Preschool/WeChat-GongZhongHao.jpg)，用于记录、分享物联网相关的点点滴滴。物联网（The Internet of Things，简称 IoT）涉及领域众多，碎片化严重，本人也在不断地学习，从零到一的过程就如同学前班，从懵懂到成熟。
+另外，我从事物联网相关的工作，注册运营了一个公众号[「物联网学习班」](https://zhaojuntao.gitee.io/picturebed/blog/IoT-Preschool/WeChat-GongZhongHao.jpg)，用于记录、分享物联网相关的点点滴滴。物联网（The Internet of Things，简称 IoT）涉及领域众多，碎片化严重，本人也在不断地学习，从零到一的过程就如同学前班，从懵懂到成熟。
 
 限于本人水平和经验，博文中难免有不妥之处，甚至是错误，欢迎个人在百忙之中给出自己宝贵的建议或意见。若文章对您或身边的人有所帮助，我会非常欣慰，也希望您可以分享给更多需要的人，感激不尽。
 
@@ -18,7 +18,7 @@
 - 物联网学前班主站：http://iot-preschool.com
 - QQ 群
 
-    ![QQ 群：747048077](https://gitee.com/zhaojuntao/PictureBed/raw/master/blog/IoT-Preschool/iot-preschool-qrcode.png)
+    ![QQ 群：747048077](https://zhaojuntao.gitee.io/picturebed/blog/IoT-Preschool/iot-preschool-qrcode.png)
 
 - 微信公众号
 
@@ -26,7 +26,7 @@
 
     公众号 ID：A1993013147
 
-    ![微信公众号：物联网学前班](https://gitee.com/zhaojuntao/PictureBed/raw/master/blog/IoT-Preschool/WeChat-GongZhongHao.jpg)
+    ![微信公众号：物联网学前班](https://zhaojuntao.gitee.io/picturebed/blog/IoT-Preschool/WeChat-GongZhongHao.jpg)
 
 - 个人邮箱
 

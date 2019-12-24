@@ -11,9 +11,9 @@
 # 全局
 # Site
 #---------------------------
-favicon: https://gitee.com/zhaojuntao/PictureBed/raw/master/logo/Murphy-logo.png # 网站标签页的 icon
+favicon: https://zhaojuntao.gitee.io/picturebed/logo/Murphy-logo.png # 网站标签页的 icon
 
-apple_touch_icon: https://gitee.com/zhaojuntao/PictureBed/raw/master/apple-touch-icon.png # 用于苹果设备的 icon
+apple_touch_icon: https://zhaojuntao.gitee.io/picturebed/logo/apple-touch-icon.png # 用于苹果设备的 icon
 
 title_join_string: ' ~ '  # 浏览器标签页中的标题分隔符，效果： 文章名 ~ 站点名
 
@@ -110,7 +110,7 @@ scroll_top_arrow:  # 向顶部滚动的箭头
 # Index Page
 #---------------------------
 index:
-  banner_img: https://gitee.com/zhaojuntao/PictureBed/raw/master/blog/IndexPicture/index-20191224-1.png  # 首页 Banner 头图，以下相同
+  banner_img: https://zhaojuntao.gitee.io/picturebed/blog/IndexPicture/index-20191224-1.png  # 首页 Banner 头图，以下相同
   banner_img_height: 100  # 头图高度，屏幕百分比，available: 0 - 100
   slogan:  # 首页副标题的独立设置
     enable: true  # 为 false 则不显示任何内容
@@ -129,7 +129,7 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: https://gitee.com/zhaojuntao/PictureBed/raw/master/blog/IndexPicture/index-20191224-1.png
+  banner_img: https://zhaojuntao.gitee.io/picturebed/blog/IndexPicture/index-20191224-1.png
   banner_img_height: 70  # available: 0 - 100
   meta:  # 文章标题下方的信息
     date:  # 文章日期
@@ -217,7 +217,7 @@ valine:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: https://gitee.com/zhaojuntao/PictureBed/raw/master/blog/IndexPicture/index-20191224-1.png
+  banner_img: https://zhaojuntao.gitee.io/picturebed/blog/IndexPicture/index-20191224-1.png
   banner_img_height: 80  # available: 0 - 100
 
 
@@ -226,7 +226,7 @@ archive:
 # Categories Page
 #---------------------------
 category:
-  banner_img: https://gitee.com/zhaojuntao/PictureBed/raw/master/blog/IndexPicture/index-20191224-1.png
+  banner_img: https://zhaojuntao.gitee.io/picturebed/blog/IndexPicture/index-20191224-1.png
   banner_img_height: 80  # available: 0 - 100
 
 
@@ -235,7 +235,7 @@ category:
 # Tags Page
 #---------------------------
 tag:
-  banner_img: https://gitee.com/zhaojuntao/PictureBed/raw/master/blog/IndexPicture/index-20191224-1.png
+  banner_img: https://zhaojuntao.gitee.io/picturebed/blog/IndexPicture/index-20191224-1.png
   banner_img_height: 80  # available: 0 - 100
   tagcloud: # 标签云
     min_font: 15
@@ -251,22 +251,22 @@ tag:
 #---------------------------
 about:  # 以下仅为页面顶部的基本信息，更多内容请在 ./pages/about.md 中编辑，支持 markdown 和 HTML
   md_path: ../../source/about.md  # 关于页文档的相对路径，可以按相对文档设置主题之外的路径，从而避免更新冲突
-  banner_img: https://gitee.com/zhaojuntao/PictureBed/raw/master/blog/IndexPicture/index-20191224-1.png
+  banner_img: https://zhaojuntao.gitee.io/picturebed/blog/IndexPicture/index-20191224-1.png
   banner_img_height: 80  # available: 0 - 100
-  avatar: https://gitee.com/zhaojuntao/PictureBed/raw/master/logo/Murphy-logo.png # 头像
+  avatar: https://zhaojuntao.gitee.io/picturebed/logo/Murphy-logo.png # 头像
   name: MurphyZhao
   introduce: Coding | 自驾游 | 羽毛球 # 支持 HTML
   icons: # 更多图标可从 https://fontawesome.com/icons 查找，并以 "图标名: url" 的格式添加在下方
     "fab fa-github": https://github.com/murphyzhao
     "fab fa-twitter": https://twitter.com
-    "fab fa-weixin": https://raw.githubusercontent.com/zhaojuntao/blog/master/source/site-img/WeChat-GongZhongHao.jpg # 微信图标，这个是特殊图标，点击不会跳转而是悬浮二维码，所以链接需要对应二维码图片地址
-    "fab fa-qq": https://raw.githubusercontent.com/zhaojuntao/blog/master/source/site-img/iot-preschool-qrcode.png
+    "fab fa-weixin": https://zhaojuntao.gitee.io/picturebed/blog/IoT-Preschool/WeChat-GongZhongHao.jpg # 微信图标，这个是特殊图标，点击不会跳转而是悬浮二维码，所以链接需要对应二维码图片地址
+    "fab fa-qq": https://zhaojuntao.gitee.io/picturebed/blog/IoT-Preschool/iot-preschool-qrcode.png
 
 #---------------------------
 # 404页
 # 404 Page
 #---------------------------
 page404:
-  banner_img: https://gitee.com/zhaojuntao/PictureBed/raw/master/blog/IndexPicture/index-20191224-1.png
+  banner_img: https://zhaojuntao.gitee.io/picturebed/blog/IndexPicture/index-20191224-1.png
   banner_img_height: 80  # available: 0 - 100
   subtitle: 'Page not found'
