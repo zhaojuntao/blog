@@ -260,7 +260,7 @@ about:  # 以下仅为页面顶部的基本信息，更多内容请在 ./pages/a
     "fab fa-github": https://github.com/murphyzhao
     "fab fa-twitter": https://twitter.com
     "fab fa-weixin": https://raw.githubusercontent.com/zhaojuntao/blog/master/source/site-img/WeChat-GongZhongHao.jpg # 微信图标，这个是特殊图标，点击不会跳转而是悬浮二维码，所以链接需要对应二维码图片地址
-
+    "fab fa-qq": https://raw.githubusercontent.com/zhaojuntao/blog/master/source/site-img/iot-preschool-qrcode.png
 
 #---------------------------
 # 404页
